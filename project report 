@@ -1,0 +1,67 @@
+Project Report: Typing Speed Test (Python)
+
+1. Introduction
+
+This project is a small but fun Python program that checks how fast a person can type.
+It shows a sentence, asks the user to type it, and then calculates how many words they typed per minute.
+The goal was to build something simple, interactive, and useful while learning basic Python concepts.
+
+
+2. Purpose of the Project
+
+The main idea behind this project was:
+
+To create a quick typing speed test.
+
+To measure typing time and words typed.
+
+To practice Python basics like inputs, timers, and simple calculations.
+
+
+It’s a beginner-friendly project that helps build confidence in writing real programs.
+
+
+3. Tools Used
+
+Python 3
+That’s it. No extra libraries or installations were needed.
+
+4. How the Program Works
+
+1. The program displays a sentence to the user.
+
+
+2. When the user presses ENTER, the test begins.
+
+
+3. The user types the sentence and presses ENTER again.
+
+
+4. Python measures how long the user took.
+
+
+5. It counts the words and calculates the Words Per Minute (WPM).
+
+
+
+The logic is simple, and everything happens inside the terminal.
+
+
+5. What the Program Does
+
+After typing the sentence, the program shows:
+
+ Time taken
+
+Words typed
+
+Typing speed (WPM)
+
+
+It gives the user a quick idea of how fast they type.
+
+6. Conclusion
+
+Even though this is a small project, it’s a great example of how Python can create real, interactive tools.
+It helped in understanding input handling, time measurement, and basic string processing.
+This project can also be improved in the future by adding accuracy checking, random sentences, or even a GUI.
